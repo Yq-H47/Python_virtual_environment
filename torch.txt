@@ -1,0 +1,51 @@
+absl-py @ file:///C:/b/abs_14wchyjaia/croot/absl-py_1714140489450/work
+colorama==0.4.6
+config==0.5.1
+contourpy==1.3.0
+cycler==0.12.1
+dpctl==0.11.4
+filelock==3.18.0
+fonttools==4.57.0
+fsspec==2025.3.2
+grpcio @ file:///C:/b/abs_98_4ysdoqy/croot/grpc-split_1742490255707/work
+importlib_metadata @ file:///C:/b/abs_9d0lp1ysmt/croot/importlib_metadata-suite_1732633510972/work
+importlib_resources==6.5.2
+Jinja2==3.1.6
+joblib==1.5.0
+kiwisolver==1.4.7
+llvmlite==0.38.0
+Markdown @ file:///C:/b/abs_f9hbi7znfr/croot/markdown_1746114643651/work
+MarkupSafe @ file:///C:/b/abs_a0ma7ge0jc/croot/markupsafe_1738584052792/work
+matplotlib==3.9.4
+mkl-service==2.4.0
+mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
+mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
+mpmath==1.3.0
+networkx==3.2.1
+numba @ file:///C:/ci/numba_1650394399948/work
+numba-dppy==0.17.4
+numpy==2.0.2
+packaging @ file:///C:/b/abs_3by6s2fa66/croot/packaging_1734472138782/work
+pandas==2.2.3
+pillow==11.2.1
+protobuf @ file:///C:/b/abs_b5v84rwh56/croot/protobuf_1742419721750/work/bazel-bin/python/dist/protobuf-5.29.3-cp39-abi3-win_amd64.whl#sha256=ef54e0300a9852a77af7818526267c684fb5930f91b114d02f9a8fe715dba559
+pyparsing==3.2.3
+python-dateutil==2.9.0.post0
+pytz==2025.2
+PyYAML @ file:///C:/b/abs_14xkfs39bx/croot/pyyaml_1728657968772/work
+scikit-learn==1.6.1
+scipy==1.13.1
+six @ file:///C:/b/abs_149wuyuo1o/croot/six_1744271521515/work
+spotpy==1.6.6
+sympy==1.14.0
+tensorboard @ file:///C:/b/abs_5bilmf0w_k/croot/tensorboard_1742506715644/work/tensorboard-2.19.0-py3-none-any.whl#sha256=5e71b98663a641a7ce8a6e70b0be8e1a4c0c45d48760b076383ac4755c35b9a0
+tensorboard_data_server @ file:///C:/b/abs_96oxnengxy/croot/tensorboard-data-server_1724172563443/work/tensorboard_data_server-0.7.0-py3-none-any.whl#sha256=e1491598092b1fe59a6545fb3d1079464cf3a999105f6bdd8a2ec8af25cf8d4c
+threadpoolctl==3.6.0
+torch==2.7.0+cu126
+torchaudio==2.7.0+cu126
+torchvision==0.22.0+cu126
+tqdm==4.67.1
+typing_extensions==4.13.2
+tzdata==2025.2
+Werkzeug @ file:///C:/b/abs_c7bupijx2_/croot/werkzeug_1737448709012/work
+zipp @ file:///C:/b/abs_2fcpcg89my/croot/zipp_1732630746332/work
